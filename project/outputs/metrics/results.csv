@@ -1,0 +1,351 @@
+model,split,condition,sentence_id,is_grammatical,audio_path,ref,hyp,WER,CER,S,I,D,H
+conformer_large_960h,clean,clean,s01,1,./project\audio\clean\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+conformer_large_960h,clean,clean,s02,1,./project\audio\clean\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+conformer_large_960h,clean,clean,s03,1,./project\audio\clean\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+conformer_large_960h,clean,clean,s04,1,./project\audio\clean\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANET,0.2222222222222222,0.08333333333333333,1,0,1,7
+conformer_large_960h,clean,clean,s05,1,./project\audio\clean\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+conformer_large_960h,clean,clean,s06,1,./project\audio\clean\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+conformer_large_960h,clean,clean,s07,1,./project\audio\clean\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+conformer_large_960h,clean,clean,s08,0,./project\audio\clean\s08.wav,Spider eye lamb population,SPIDER EYE LAMB POPULATION,0.0,0.0,0,0,0,4
+conformer_large_960h,clean,clean,s09,0,./project\audio\clean\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARCLAY,0.2,0.03333333333333333,1,0,0,4
+conformer_large_960h,clean,clean,s10,0,./project\audio\clean\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+conformer_large_960h,synthetic,noise_traffic_snr10,s01,1,./project\audio\synthetic\noise_traffic_snr10\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+conformer_large_960h,synthetic,noise_traffic_snr10,s02,1,./project\audio\synthetic\noise_traffic_snr10\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+conformer_large_960h,synthetic,noise_traffic_snr10,s03,1,./project\audio\synthetic\noise_traffic_snr10\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+conformer_large_960h,synthetic,noise_traffic_snr10,s04,1,./project\audio\synthetic\noise_traffic_snr10\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANED,0.2222222222222222,0.0625,1,0,1,7
+conformer_large_960h,synthetic,noise_traffic_snr10,s05,1,./project\audio\synthetic\noise_traffic_snr10\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+conformer_large_960h,synthetic,noise_traffic_snr10,s06,1,./project\audio\synthetic\noise_traffic_snr10\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+conformer_large_960h,synthetic,noise_traffic_snr10,s07,1,./project\audio\synthetic\noise_traffic_snr10\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+conformer_large_960h,synthetic,noise_traffic_snr10,s08,0,./project\audio\synthetic\noise_traffic_snr10\s08.wav,Spider eye lamb population,SPIDER IE LAMB POPULATION,0.25,0.07692307692307693,1,0,0,3
+conformer_large_960h,synthetic,noise_traffic_snr10,s09,0,./project\audio\synthetic\noise_traffic_snr10\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARCLAY,0.2,0.03333333333333333,1,0,0,4
+conformer_large_960h,synthetic,noise_traffic_snr10,s10,0,./project\audio\synthetic\noise_traffic_snr10\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+conformer_large_960h,synthetic,noise_traffic_snr20,s01,1,./project\audio\synthetic\noise_traffic_snr20\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+conformer_large_960h,synthetic,noise_traffic_snr20,s02,1,./project\audio\synthetic\noise_traffic_snr20\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+conformer_large_960h,synthetic,noise_traffic_snr20,s03,1,./project\audio\synthetic\noise_traffic_snr20\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+conformer_large_960h,synthetic,noise_traffic_snr20,s04,1,./project\audio\synthetic\noise_traffic_snr20\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANED,0.2222222222222222,0.0625,1,0,1,7
+conformer_large_960h,synthetic,noise_traffic_snr20,s05,1,./project\audio\synthetic\noise_traffic_snr20\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+conformer_large_960h,synthetic,noise_traffic_snr20,s06,1,./project\audio\synthetic\noise_traffic_snr20\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+conformer_large_960h,synthetic,noise_traffic_snr20,s07,1,./project\audio\synthetic\noise_traffic_snr20\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+conformer_large_960h,synthetic,noise_traffic_snr20,s08,0,./project\audio\synthetic\noise_traffic_snr20\s08.wav,Spider eye lamb population,SPIDER IE LAMB POPULATION,0.25,0.07692307692307693,1,0,0,3
+conformer_large_960h,synthetic,noise_traffic_snr20,s09,0,./project\audio\synthetic\noise_traffic_snr20\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARCLAY,0.2,0.03333333333333333,1,0,0,4
+conformer_large_960h,synthetic,noise_traffic_snr20,s10,0,./project\audio\synthetic\noise_traffic_snr20\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+conformer_large_960h,synthetic,noise_white_snr10,s01,1,./project\audio\synthetic\noise_white_snr10\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+conformer_large_960h,synthetic,noise_white_snr10,s02,1,./project\audio\synthetic\noise_white_snr10\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+conformer_large_960h,synthetic,noise_white_snr10,s03,1,./project\audio\synthetic\noise_white_snr10\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE WARDING SYSTEM'S CLASS,0.25,0.09090909090909091,2,0,0,6
+conformer_large_960h,synthetic,noise_white_snr10,s04,1,./project\audio\synthetic\noise_white_snr10\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY GANET,0.2222222222222222,0.0625,1,0,1,7
+conformer_large_960h,synthetic,noise_white_snr10,s05,1,./project\audio\synthetic\noise_white_snr10\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOTHING,0.125,0.05405405405405406,1,0,0,7
+conformer_large_960h,synthetic,noise_white_snr10,s06,1,./project\audio\synthetic\noise_white_snr10\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+conformer_large_960h,synthetic,noise_white_snr10,s07,1,./project\audio\synthetic\noise_white_snr10\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+conformer_large_960h,synthetic,noise_white_snr10,s08,0,./project\audio\synthetic\noise_white_snr10\s08.wav,Spider eye lamb population,SPIDER YE LAMB POPULATION,0.25,0.038461538461538464,1,0,0,3
+conformer_large_960h,synthetic,noise_white_snr10,s09,0,./project\audio\synthetic\noise_white_snr10\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE BRYAN BARQUAY,0.6,0.13333333333333333,3,0,0,2
+conformer_large_960h,synthetic,noise_white_snr10,s10,0,./project\audio\synthetic\noise_white_snr10\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+conformer_large_960h,synthetic,noise_white_snr20,s01,1,./project\audio\synthetic\noise_white_snr20\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+conformer_large_960h,synthetic,noise_white_snr20,s02,1,./project\audio\synthetic\noise_white_snr20\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+conformer_large_960h,synthetic,noise_white_snr20,s03,1,./project\audio\synthetic\noise_white_snr20\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+conformer_large_960h,synthetic,noise_white_snr20,s04,1,./project\audio\synthetic\noise_white_snr20\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANET,0.2222222222222222,0.08333333333333333,1,0,1,7
+conformer_large_960h,synthetic,noise_white_snr20,s05,1,./project\audio\synthetic\noise_white_snr20\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+conformer_large_960h,synthetic,noise_white_snr20,s06,1,./project\audio\synthetic\noise_white_snr20\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+conformer_large_960h,synthetic,noise_white_snr20,s07,1,./project\audio\synthetic\noise_white_snr20\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+conformer_large_960h,synthetic,noise_white_snr20,s08,0,./project\audio\synthetic\noise_white_snr20\s08.wav,Spider eye lamb population,SPIDER YE LAMB POPULATION,0.25,0.038461538461538464,1,0,0,3
+conformer_large_960h,synthetic,noise_white_snr20,s09,0,./project\audio\synthetic\noise_white_snr20\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARKLAY,0.4,0.06666666666666667,2,0,0,3
+conformer_large_960h,synthetic,noise_white_snr20,s10,0,./project\audio\synthetic\noise_white_snr20\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+conformer_large_960h,real,env1,s01,1,./project\audio\real\env1\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+conformer_large_960h,real,env1,s02,1,./project\audio\real\env1\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+conformer_large_960h,real,env1,s03,1,./project\audio\real\env1\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+conformer_large_960h,real,env1,s04,1,./project\audio\real\env1\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY GENAD,0.2222222222222222,0.041666666666666664,1,0,1,7
+conformer_large_960h,real,env1,s05,1,./project\audio\real\env1\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+conformer_large_960h,real,env1,s06,1,./project\audio\real\env1\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+conformer_large_960h,real,env1,s07,1,./project\audio\real\env1\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+conformer_large_960h,real,env1,s08,0,./project\audio\real\env1\s08.wav,Spider eye lamb population,SPIDER EYE LAMB POPULATION,0.0,0.0,0,0,0,4
+conformer_large_960h,real,env1,s09,0,./project\audio\real\env1\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARCLAY,0.2,0.03333333333333333,1,0,0,4
+conformer_large_960h,real,env1,s10,0,./project\audio\real\env1\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+conformer_large_960h,real,env2,s01,1,./project\audio\real\env2\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+conformer_large_960h,real,env2,s02,1,./project\audio\real\env2\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A A COURSE,0.2857142857142857,0.06666666666666667,1,1,0,6
+conformer_large_960h,real,env2,s03,1,./project\audio\real\env2\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+conformer_large_960h,real,env2,s04,1,./project\audio\real\env2\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANED,0.2222222222222222,0.0625,1,0,1,7
+conformer_large_960h,real,env2,s05,1,./project\audio\real\env2\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPUFING,0.125,0.05405405405405406,1,0,0,7
+conformer_large_960h,real,env2,s06,1,./project\audio\real\env2\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+conformer_large_960h,real,env2,s07,1,./project\audio\real\env2\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+conformer_large_960h,real,env2,s08,0,./project\audio\real\env2\s08.wav,Spider eye lamb population,SPIDER Y LAMB POPULATION,0.25,0.07692307692307693,1,0,0,3
+conformer_large_960h,real,env2,s09,0,./project\audio\real\env2\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARCLAY,0.2,0.03333333333333333,1,0,0,4
+conformer_large_960h,real,env2,s10,0,./project\audio\real\env2\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIER,1.3333333333333333,0.08333333333333333,2,2,0,1
+hubert_large_ls960,clean,clean,s01,1,./project\audio\clean\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+hubert_large_ls960,clean,clean,s02,1,./project\audio\clean\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+hubert_large_ls960,clean,clean,s03,1,./project\audio\clean\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+hubert_large_ls960,clean,clean,s04,1,./project\audio\clean\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANED,0.2222222222222222,0.0625,1,0,1,7
+hubert_large_ls960,clean,clean,s05,1,./project\audio\clean\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+hubert_large_ls960,clean,clean,s06,1,./project\audio\clean\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+hubert_large_ls960,clean,clean,s07,1,./project\audio\clean\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+hubert_large_ls960,clean,clean,s08,0,./project\audio\clean\s08.wav,Spider eye lamb population,SPIDER EYE LAMB POPULATION,0.0,0.0,0,0,0,4
+hubert_large_ls960,clean,clean,s09,0,./project\audio\clean\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARKLEY,0.4,0.1,2,0,0,3
+hubert_large_ls960,clean,clean,s10,0,./project\audio\clean\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+hubert_large_ls960,synthetic,noise_traffic_snr10,s01,1,./project\audio\synthetic\noise_traffic_snr10\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+hubert_large_ls960,synthetic,noise_traffic_snr10,s02,1,./project\audio\synthetic\noise_traffic_snr10\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+hubert_large_ls960,synthetic,noise_traffic_snr10,s03,1,./project\audio\synthetic\noise_traffic_snr10\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+hubert_large_ls960,synthetic,noise_traffic_snr10,s04,1,./project\audio\synthetic\noise_traffic_snr10\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANED,0.2222222222222222,0.0625,1,0,1,7
+hubert_large_ls960,synthetic,noise_traffic_snr10,s05,1,./project\audio\synthetic\noise_traffic_snr10\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+hubert_large_ls960,synthetic,noise_traffic_snr10,s06,1,./project\audio\synthetic\noise_traffic_snr10\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+hubert_large_ls960,synthetic,noise_traffic_snr10,s07,1,./project\audio\synthetic\noise_traffic_snr10\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+hubert_large_ls960,synthetic,noise_traffic_snr10,s08,0,./project\audio\synthetic\noise_traffic_snr10\s08.wav,Spider eye lamb population,SPIDER EYE LAMB POPULATION,0.0,0.0,0,0,0,4
+hubert_large_ls960,synthetic,noise_traffic_snr10,s09,0,./project\audio\synthetic\noise_traffic_snr10\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARKLEY,0.4,0.1,2,0,0,3
+hubert_large_ls960,synthetic,noise_traffic_snr10,s10,0,./project\audio\synthetic\noise_traffic_snr10\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+hubert_large_ls960,synthetic,noise_traffic_snr20,s01,1,./project\audio\synthetic\noise_traffic_snr20\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+hubert_large_ls960,synthetic,noise_traffic_snr20,s02,1,./project\audio\synthetic\noise_traffic_snr20\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+hubert_large_ls960,synthetic,noise_traffic_snr20,s03,1,./project\audio\synthetic\noise_traffic_snr20\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+hubert_large_ls960,synthetic,noise_traffic_snr20,s04,1,./project\audio\synthetic\noise_traffic_snr20\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANED,0.2222222222222222,0.0625,1,0,1,7
+hubert_large_ls960,synthetic,noise_traffic_snr20,s05,1,./project\audio\synthetic\noise_traffic_snr20\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+hubert_large_ls960,synthetic,noise_traffic_snr20,s06,1,./project\audio\synthetic\noise_traffic_snr20\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+hubert_large_ls960,synthetic,noise_traffic_snr20,s07,1,./project\audio\synthetic\noise_traffic_snr20\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+hubert_large_ls960,synthetic,noise_traffic_snr20,s08,0,./project\audio\synthetic\noise_traffic_snr20\s08.wav,Spider eye lamb population,SPIDER EYE LAMB POPULATION,0.0,0.0,0,0,0,4
+hubert_large_ls960,synthetic,noise_traffic_snr20,s09,0,./project\audio\synthetic\noise_traffic_snr20\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARKLEY,0.4,0.1,2,0,0,3
+hubert_large_ls960,synthetic,noise_traffic_snr20,s10,0,./project\audio\synthetic\noise_traffic_snr20\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+hubert_large_ls960,synthetic,noise_white_snr10,s01,1,./project\audio\synthetic\noise_white_snr10\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+hubert_large_ls960,synthetic,noise_white_snr10,s02,1,./project\audio\synthetic\noise_white_snr10\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+hubert_large_ls960,synthetic,noise_white_snr10,s03,1,./project\audio\synthetic\noise_white_snr10\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+hubert_large_ls960,synthetic,noise_white_snr10,s04,1,./project\audio\synthetic\noise_white_snr10\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANET,0.2222222222222222,0.08333333333333333,1,0,1,7
+hubert_large_ls960,synthetic,noise_white_snr10,s05,1,./project\audio\synthetic\noise_white_snr10\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOTHING,0.125,0.05405405405405406,1,0,0,7
+hubert_large_ls960,synthetic,noise_white_snr10,s06,1,./project\audio\synthetic\noise_white_snr10\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+hubert_large_ls960,synthetic,noise_white_snr10,s07,1,./project\audio\synthetic\noise_white_snr10\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+hubert_large_ls960,synthetic,noise_white_snr10,s08,0,./project\audio\synthetic\noise_white_snr10\s08.wav,Spider eye lamb population,SPIDER EYE LAMB POPULATION,0.0,0.0,0,0,0,4
+hubert_large_ls960,synthetic,noise_white_snr10,s09,0,./project\audio\synthetic\noise_white_snr10\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARKLAY,0.4,0.06666666666666667,2,0,0,3
+hubert_large_ls960,synthetic,noise_white_snr10,s10,0,./project\audio\synthetic\noise_white_snr10\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISED UNDER DELIVER,1.3333333333333333,0.08333333333333333,2,2,0,1
+hubert_large_ls960,synthetic,noise_white_snr20,s01,1,./project\audio\synthetic\noise_white_snr20\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+hubert_large_ls960,synthetic,noise_white_snr20,s02,1,./project\audio\synthetic\noise_white_snr20\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+hubert_large_ls960,synthetic,noise_white_snr20,s03,1,./project\audio\synthetic\noise_white_snr20\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+hubert_large_ls960,synthetic,noise_white_snr20,s04,1,./project\audio\synthetic\noise_white_snr20\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANET,0.2222222222222222,0.08333333333333333,1,0,1,7
+hubert_large_ls960,synthetic,noise_white_snr20,s05,1,./project\audio\synthetic\noise_white_snr20\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+hubert_large_ls960,synthetic,noise_white_snr20,s06,1,./project\audio\synthetic\noise_white_snr20\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+hubert_large_ls960,synthetic,noise_white_snr20,s07,1,./project\audio\synthetic\noise_white_snr20\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+hubert_large_ls960,synthetic,noise_white_snr20,s08,0,./project\audio\synthetic\noise_white_snr20\s08.wav,Spider eye lamb population,SPIDER EYE LAMB POPULATION,0.0,0.0,0,0,0,4
+hubert_large_ls960,synthetic,noise_white_snr20,s09,0,./project\audio\synthetic\noise_white_snr20\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARKLEY,0.4,0.1,2,0,0,3
+hubert_large_ls960,synthetic,noise_white_snr20,s10,0,./project\audio\synthetic\noise_white_snr20\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+hubert_large_ls960,real,env1,s01,1,./project\audio\real\env1\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+hubert_large_ls960,real,env1,s02,1,./project\audio\real\env1\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+hubert_large_ls960,real,env1,s03,1,./project\audio\real\env1\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+hubert_large_ls960,real,env1,s04,1,./project\audio\real\env1\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JENED,0.2222222222222222,0.041666666666666664,1,0,1,7
+hubert_large_ls960,real,env1,s05,1,./project\audio\real\env1\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOUFFIN,0.125,0.08108108108108109,1,0,0,7
+hubert_large_ls960,real,env1,s06,1,./project\audio\real\env1\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+hubert_large_ls960,real,env1,s07,1,./project\audio\real\env1\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+hubert_large_ls960,real,env1,s08,0,./project\audio\real\env1\s08.wav,Spider eye lamb population,SPIDER AYE LAMB POPULATION,0.25,0.038461538461538464,1,0,0,3
+hubert_large_ls960,real,env1,s09,0,./project\audio\real\env1\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARKLEY,0.4,0.1,2,0,0,3
+hubert_large_ls960,real,env1,s10,0,./project\audio\real\env1\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISED UNDER DELIVER,1.3333333333333333,0.08333333333333333,2,2,0,1
+hubert_large_ls960,real,env2,s01,1,./project\audio\real\env2\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+hubert_large_ls960,real,env2,s02,1,./project\audio\real\env2\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A AD COURSE,0.2857142857142857,0.1,1,1,0,6
+hubert_large_ls960,real,env2,s03,1,./project\audio\real\env2\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+hubert_large_ls960,real,env2,s04,1,./project\audio\real\env2\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JENED,0.2222222222222222,0.041666666666666664,1,0,1,7
+hubert_large_ls960,real,env2,s05,1,./project\audio\real\env2\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPUFFIN,0.125,0.08108108108108109,1,0,0,7
+hubert_large_ls960,real,env2,s06,1,./project\audio\real\env2\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+hubert_large_ls960,real,env2,s07,1,./project\audio\real\env2\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+hubert_large_ls960,real,env2,s08,0,./project\audio\real\env2\s08.wav,Spider eye lamb population,SPIDER AYE LAMB POPULATION,0.25,0.038461538461538464,1,0,0,3
+hubert_large_ls960,real,env2,s09,0,./project\audio\real\env2\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRYCE JUDE RYAN BARKLAY,0.4,0.06666666666666667,2,0,0,3
+hubert_large_ls960,real,env2,s10,0,./project\audio\real\env2\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISED UNDER DELIVERER,1.3333333333333333,0.1388888888888889,2,2,0,1
+wav2vec2_960h,clean,clean,s01,1,./project\audio\clean\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+wav2vec2_960h,clean,clean,s02,1,./project\audio\clean\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COARSE,0.42857142857142855,0.06666666666666667,2,1,0,5
+wav2vec2_960h,clean,clean,s03,1,./project\audio\clean\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+wav2vec2_960h,clean,clean,s04,1,./project\audio\clean\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANED,0.2222222222222222,0.0625,1,0,1,7
+wav2vec2_960h,clean,clean,s05,1,./project\audio\clean\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+wav2vec2_960h,clean,clean,s06,1,./project\audio\clean\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+wav2vec2_960h,clean,clean,s07,1,./project\audio\clean\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+wav2vec2_960h,clean,clean,s08,0,./project\audio\clean\s08.wav,Spider eye lamb population,SPIDER I LAMB POPULATION,0.25,0.11538461538461539,1,0,0,3
+wav2vec2_960h,clean,clean,s09,0,./project\audio\clean\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRICE JUDE RIAN BARKLE,0.8,0.2,4,0,0,1
+wav2vec2_960h,clean,clean,s10,0,./project\audio\clean\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVERPROMISE UNDER DELIVER,0.6666666666666666,0.027777777777777776,1,1,0,2
+wav2vec2_960h,synthetic,noise_traffic_snr10,s01,1,./project\audio\synthetic\noise_traffic_snr10\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+wav2vec2_960h,synthetic,noise_traffic_snr10,s02,1,./project\audio\synthetic\noise_traffic_snr10\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COARSE,0.42857142857142855,0.06666666666666667,2,1,0,5
+wav2vec2_960h,synthetic,noise_traffic_snr10,s03,1,./project\audio\synthetic\noise_traffic_snr10\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+wav2vec2_960h,synthetic,noise_traffic_snr10,s04,1,./project\audio\synthetic\noise_traffic_snr10\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JENED,0.2222222222222222,0.041666666666666664,1,0,1,7
+wav2vec2_960h,synthetic,noise_traffic_snr10,s05,1,./project\audio\synthetic\noise_traffic_snr10\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+wav2vec2_960h,synthetic,noise_traffic_snr10,s06,1,./project\audio\synthetic\noise_traffic_snr10\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+wav2vec2_960h,synthetic,noise_traffic_snr10,s07,1,./project\audio\synthetic\noise_traffic_snr10\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+wav2vec2_960h,synthetic,noise_traffic_snr10,s08,0,./project\audio\synthetic\noise_traffic_snr10\s08.wav,Spider eye lamb population,SPIDER I LAMB POPULATION,0.25,0.11538461538461539,1,0,0,3
+wav2vec2_960h,synthetic,noise_traffic_snr10,s09,0,./project\audio\synthetic\noise_traffic_snr10\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRICE JUDE RION BARKLEY,0.8,0.2,4,0,0,1
+wav2vec2_960h,synthetic,noise_traffic_snr10,s10,0,./project\audio\synthetic\noise_traffic_snr10\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVERPROMISE UNDER DELIVER,0.6666666666666666,0.027777777777777776,1,1,0,2
+wav2vec2_960h,synthetic,noise_traffic_snr20,s01,1,./project\audio\synthetic\noise_traffic_snr20\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+wav2vec2_960h,synthetic,noise_traffic_snr20,s02,1,./project\audio\synthetic\noise_traffic_snr20\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COARSE,0.42857142857142855,0.06666666666666667,2,1,0,5
+wav2vec2_960h,synthetic,noise_traffic_snr20,s03,1,./project\audio\synthetic\noise_traffic_snr20\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+wav2vec2_960h,synthetic,noise_traffic_snr20,s04,1,./project\audio\synthetic\noise_traffic_snr20\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY JANED,0.2222222222222222,0.0625,1,0,1,7
+wav2vec2_960h,synthetic,noise_traffic_snr20,s05,1,./project\audio\synthetic\noise_traffic_snr20\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOFING,0.0,0.0,0,0,0,8
+wav2vec2_960h,synthetic,noise_traffic_snr20,s06,1,./project\audio\synthetic\noise_traffic_snr20\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+wav2vec2_960h,synthetic,noise_traffic_snr20,s07,1,./project\audio\synthetic\noise_traffic_snr20\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+wav2vec2_960h,synthetic,noise_traffic_snr20,s08,0,./project\audio\synthetic\noise_traffic_snr20\s08.wav,Spider eye lamb population,SPIDER I LAMB POPULATION,0.25,0.11538461538461539,1,0,0,3
+wav2vec2_960h,synthetic,noise_traffic_snr20,s09,0,./project\audio\synthetic\noise_traffic_snr20\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRICE JUDE RIAN BARKLEY,0.8,0.16666666666666666,4,0,0,1
+wav2vec2_960h,synthetic,noise_traffic_snr20,s10,0,./project\audio\synthetic\noise_traffic_snr20\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVERPROMISE UNDER DELIVER,0.6666666666666666,0.027777777777777776,1,1,0,2
+wav2vec2_960h,synthetic,noise_white_snr10,s01,1,./project\audio\synthetic\noise_white_snr10\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+wav2vec2_960h,synthetic,noise_white_snr10,s02,1,./project\audio\synthetic\noise_white_snr10\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH E AI COURSE,0.14285714285714285,0.06666666666666667,0,1,0,7
+wav2vec2_960h,synthetic,noise_white_snr10,s03,1,./project\audio\synthetic\noise_white_snr10\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE WINING SYSTEM'S CLASS,0.25,0.11363636363636363,2,0,0,6
+wav2vec2_960h,synthetic,noise_white_snr10,s04,1,./project\audio\synthetic\noise_white_snr10\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY GANEZ,0.2222222222222222,0.0625,1,0,1,7
+wav2vec2_960h,synthetic,noise_white_snr10,s05,1,./project\audio\synthetic\noise_white_snr10\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPUTIN,0.125,0.10810810810810811,1,0,0,7
+wav2vec2_960h,synthetic,noise_white_snr10,s06,1,./project\audio\synthetic\noise_white_snr10\s06.wav,Computer architecure is one of my academic interests,COMPURE ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.25,0.057692307692307696,2,0,0,6
+wav2vec2_960h,synthetic,noise_white_snr10,s07,1,./project\audio\synthetic\noise_white_snr10\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN NAY OF THIS YEAR,0.1111111111111111,0.024390243902439025,1,0,0,8
+wav2vec2_960h,synthetic,noise_white_snr10,s08,0,./project\audio\synthetic\noise_white_snr10\s08.wav,Spider eye lamb population,FITER I I AM POPULATION,1.0,0.3076923076923077,3,1,0,1
+wav2vec2_960h,synthetic,noise_white_snr10,s09,0,./project\audio\synthetic\noise_white_snr10\s09.wav,Connor Bryce Jude Ryan Barclay,HONOR BRIDE JEWD BRY AN HARKWA,1.2,0.43333333333333335,5,1,0,0
+wav2vec2_960h,synthetic,noise_white_snr10,s10,0,./project\audio\synthetic\noise_white_snr10\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+wav2vec2_960h,synthetic,noise_white_snr20,s01,1,./project\audio\synthetic\noise_white_snr20\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+wav2vec2_960h,synthetic,noise_white_snr20,s02,1,./project\audio\synthetic\noise_white_snr20\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+wav2vec2_960h,synthetic,noise_white_snr20,s03,1,./project\audio\synthetic\noise_white_snr20\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+wav2vec2_960h,synthetic,noise_white_snr20,s04,1,./project\audio\synthetic\noise_white_snr20\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY GENED,0.2222222222222222,0.020833333333333332,1,0,1,7
+wav2vec2_960h,synthetic,noise_white_snr20,s05,1,./project\audio\synthetic\noise_white_snr20\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPOOTHING,0.125,0.05405405405405406,1,0,0,7
+wav2vec2_960h,synthetic,noise_white_snr20,s06,1,./project\audio\synthetic\noise_white_snr20\s06.wav,Computer architecure is one of my academic interests,COMPUTERE ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.25,0.038461538461538464,2,0,0,6
+wav2vec2_960h,synthetic,noise_white_snr20,s07,1,./project\audio\synthetic\noise_white_snr20\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+wav2vec2_960h,synthetic,noise_white_snr20,s08,0,./project\audio\synthetic\noise_white_snr20\s08.wav,Spider eye lamb population,SPIDER I LAMB POPULATION,0.25,0.11538461538461539,1,0,0,3
+wav2vec2_960h,synthetic,noise_white_snr20,s09,0,./project\audio\synthetic\noise_white_snr20\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRICZ JUDE BRYEN BARKLY,0.8,0.23333333333333334,4,0,0,1
+wav2vec2_960h,synthetic,noise_white_snr20,s10,0,./project\audio\synthetic\noise_white_snr20\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+wav2vec2_960h,real,env1,s01,1,./project\audio\real\env1\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+wav2vec2_960h,real,env1,s02,1,./project\audio\real\env1\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A I COURSE,0.2857142857142857,0.03333333333333333,1,1,0,6
+wav2vec2_960h,real,env1,s03,1,./project\audio\real\env1\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+wav2vec2_960h,real,env1,s04,1,./project\audio\real\env1\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING AN INTRODUCTION TO PHILOSOPHY GENED,0.2222222222222222,0.020833333333333332,1,0,1,7
+wav2vec2_960h,real,env1,s05,1,./project\audio\real\env1\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPUFFIN,0.125,0.08108108108108109,1,0,0,7
+wav2vec2_960h,real,env1,s06,1,./project\audio\real\env1\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+wav2vec2_960h,real,env1,s07,1,./project\audio\real\env1\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN MAY OF THIS YEAR,0.0,0.0,0,0,0,9
+wav2vec2_960h,real,env1,s08,0,./project\audio\real\env1\s08.wav,Spider eye lamb population,SPIDER I LAMB POPULATION,0.25,0.11538461538461539,1,0,0,3
+wav2vec2_960h,real,env1,s09,0,./project\audio\real\env1\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRICE JUDE RYAN BARKLAW,0.6,0.13333333333333333,3,0,0,2
+wav2vec2_960h,real,env1,s10,0,./project\audio\real\env1\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+wav2vec2_960h,real,env2,s01,1,./project\audio\real\env2\s01.wav,I go to the University of Southern California,I GO TO THE UNIVERSITY OF SOUTHERN CALIFORNIA,0.0,0.0,0,0,0,8
+wav2vec2_960h,real,env2,s02,1,./project\audio\real\env2\s02.wav,I am taking a speech AI course,I AM TAKING A SPEECH A A CORS,0.42857142857142855,0.13333333333333333,2,1,0,5
+wav2vec2_960h,real,env2,s03,1,./project\audio\real\env2\s03.wav,I am taking a machine learning systems class,I AM TAKING A MACHINE LEARNING SYSTEM'S CLASS,0.125,0.022727272727272728,1,0,0,7
+wav2vec2_960h,real,env2,s04,1,./project\audio\real\env2\s04.wav,I am taking an introduction to philosophy gen ed,I AM TAKING INTRODUCTION TO PHILOSOPHY JENET,0.3333333333333333,0.125,1,0,2,6
+wav2vec2_960h,real,env2,s05,1,./project\audio\real\env2\s05.wav,I am doing a project on anti spoofing,I AM DOING A PROJECT ON ANTI SPUFFAN,0.125,0.10810810810810811,1,0,0,7
+wav2vec2_960h,real,env2,s06,1,./project\audio\real\env2\s06.wav,Computer architecure is one of my academic interests,COMPUTER ARCHITECTURE IS ONE OF MY ACADEMIC INTERESTS,0.125,0.019230769230769232,1,0,0,7
+wav2vec2_960h,real,env2,s07,1,./project\audio\real\env2\s07.wav,My graduation will be in May of this year,MY GRADUATION WILL BE IN NAY OF THIS YEAR,0.1111111111111111,0.024390243902439025,1,0,0,8
+wav2vec2_960h,real,env2,s08,0,./project\audio\real\env2\s08.wav,Spider eye lamb population,SPIDER I LAM POPULATION,0.5,0.15384615384615385,2,0,0,2
+wav2vec2_960h,real,env2,s09,0,./project\audio\real\env2\s09.wav,Connor Bryce Jude Ryan Barclay,CONNER BRICE JUDE BRYAN BARKELIFE,0.8,0.26666666666666666,4,0,0,1
+wav2vec2_960h,real,env2,s10,0,./project\audio\real\env2\s10.wav,incompetent overpromise underdeliver,INCOMPETENT OVER PROMISE UNDER DELIVER,1.3333333333333333,0.05555555555555555,2,2,0,1
+whisper_base,clean,clean,s01,1,./project\audio\clean\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_base,clean,clean,s02,1,./project\audio\clean\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_base,clean,clean,s03,1,./project\audio\clean\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_base,clean,clean,s04,1,./project\audio\clean\s04.wav,I am taking an introduction to philosophy gen ed,I am taking an introduction to philosophy gen ed.,0.0,0.0,0,0,0,9
+whisper_base,clean,clean,s05,1,./project\audio\clean\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti-spooping.,0.125,0.02702702702702703,1,0,0,7
+whisper_base,clean,clean,s06,1,./project\audio\clean\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_base,clean,clean,s07,1,./project\audio\clean\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_base,clean,clean,s08,0,./project\audio\clean\s08.wav,Spider eye lamb population,"Spider, I, Lamb, Population.",0.25,0.11538461538461539,1,0,0,3
+whisper_base,clean,clean,s09,0,./project\audio\clean\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_base,clean,clean,s10,0,./project\audio\clean\s10.wav,incompetent overpromise underdeliver,"incompetent, overpromise, underdeliver.",0.0,0.0,0,0,0,3
+whisper_base,synthetic,noise_traffic_snr10,s01,1,./project\audio\synthetic\noise_traffic_snr10\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_base,synthetic,noise_traffic_snr10,s02,1,./project\audio\synthetic\noise_traffic_snr10\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_base,synthetic,noise_traffic_snr10,s03,1,./project\audio\synthetic\noise_traffic_snr10\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_base,synthetic,noise_traffic_snr10,s04,1,./project\audio\synthetic\noise_traffic_snr10\s04.wav,I am taking an introduction to philosophy gen ed,I am taking an introduction to philosophy gen ed.,0.0,0.0,0,0,0,9
+whisper_base,synthetic,noise_traffic_snr10,s05,1,./project\audio\synthetic\noise_traffic_snr10\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti-spooping.,0.125,0.02702702702702703,1,0,0,7
+whisper_base,synthetic,noise_traffic_snr10,s06,1,./project\audio\synthetic\noise_traffic_snr10\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_base,synthetic,noise_traffic_snr10,s07,1,./project\audio\synthetic\noise_traffic_snr10\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_base,synthetic,noise_traffic_snr10,s08,0,./project\audio\synthetic\noise_traffic_snr10\s08.wav,Spider eye lamb population,"Spider, I, Lamb, Population.",0.25,0.11538461538461539,1,0,0,3
+whisper_base,synthetic,noise_traffic_snr10,s09,0,./project\audio\synthetic\noise_traffic_snr10\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_base,synthetic,noise_traffic_snr10,s10,0,./project\audio\synthetic\noise_traffic_snr10\s10.wav,incompetent overpromise underdeliver,"incompetent, overpromise, underdeliver.",0.0,0.0,0,0,0,3
+whisper_base,synthetic,noise_traffic_snr20,s01,1,./project\audio\synthetic\noise_traffic_snr20\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_base,synthetic,noise_traffic_snr20,s02,1,./project\audio\synthetic\noise_traffic_snr20\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_base,synthetic,noise_traffic_snr20,s03,1,./project\audio\synthetic\noise_traffic_snr20\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_base,synthetic,noise_traffic_snr20,s04,1,./project\audio\synthetic\noise_traffic_snr20\s04.wav,I am taking an introduction to philosophy gen ed,"I am taking an introduction to philosophy, Janet.",0.2222222222222222,0.08333333333333333,1,0,1,7
+whisper_base,synthetic,noise_traffic_snr20,s05,1,./project\audio\synthetic\noise_traffic_snr20\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti-spooping.,0.125,0.02702702702702703,1,0,0,7
+whisper_base,synthetic,noise_traffic_snr20,s06,1,./project\audio\synthetic\noise_traffic_snr20\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_base,synthetic,noise_traffic_snr20,s07,1,./project\audio\synthetic\noise_traffic_snr20\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_base,synthetic,noise_traffic_snr20,s08,0,./project\audio\synthetic\noise_traffic_snr20\s08.wav,Spider eye lamb population,"Spider, I, Lamb, Population.",0.25,0.11538461538461539,1,0,0,3
+whisper_base,synthetic,noise_traffic_snr20,s09,0,./project\audio\synthetic\noise_traffic_snr20\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_base,synthetic,noise_traffic_snr20,s10,0,./project\audio\synthetic\noise_traffic_snr20\s10.wav,incompetent overpromise underdeliver,"incompetent, overpromise, underdeliver.",0.0,0.0,0,0,0,3
+whisper_base,synthetic,noise_white_snr10,s01,1,./project\audio\synthetic\noise_white_snr10\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_base,synthetic,noise_white_snr10,s02,1,./project\audio\synthetic\noise_white_snr10\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_base,synthetic,noise_white_snr10,s03,1,./project\audio\synthetic\noise_white_snr10\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_base,synthetic,noise_white_snr10,s04,1,./project\audio\synthetic\noise_white_snr10\s04.wav,I am taking an introduction to philosophy gen ed,I am taking an introduction to Philosophy Genet.,0.2222222222222222,0.041666666666666664,1,0,1,7
+whisper_base,synthetic,noise_white_snr10,s05,1,./project\audio\synthetic\noise_white_snr10\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti-spoofing.,0.0,0.0,0,0,0,8
+whisper_base,synthetic,noise_white_snr10,s06,1,./project\audio\synthetic\noise_white_snr10\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_base,synthetic,noise_white_snr10,s07,1,./project\audio\synthetic\noise_white_snr10\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_base,synthetic,noise_white_snr10,s08,0,./project\audio\synthetic\noise_white_snr10\s08.wav,Spider eye lamb population,"Spider, I, Lamb, Population.",0.25,0.11538461538461539,1,0,0,3
+whisper_base,synthetic,noise_white_snr10,s09,0,./project\audio\synthetic\noise_white_snr10\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_base,synthetic,noise_white_snr10,s10,0,./project\audio\synthetic\noise_white_snr10\s10.wav,incompetent overpromise underdeliver,"incompetent, overpromise, underdeliver.",0.0,0.0,0,0,0,3
+whisper_base,synthetic,noise_white_snr20,s01,1,./project\audio\synthetic\noise_white_snr20\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_base,synthetic,noise_white_snr20,s02,1,./project\audio\synthetic\noise_white_snr20\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_base,synthetic,noise_white_snr20,s03,1,./project\audio\synthetic\noise_white_snr20\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_base,synthetic,noise_white_snr20,s04,1,./project\audio\synthetic\noise_white_snr20\s04.wav,I am taking an introduction to philosophy gen ed,I am taking an introduction to Philosophy Gen Ed.,0.0,0.0,0,0,0,9
+whisper_base,synthetic,noise_white_snr20,s05,1,./project\audio\synthetic\noise_white_snr20\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti-spoothing.,0.125,0.05405405405405406,1,0,0,7
+whisper_base,synthetic,noise_white_snr20,s06,1,./project\audio\synthetic\noise_white_snr20\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_base,synthetic,noise_white_snr20,s07,1,./project\audio\synthetic\noise_white_snr20\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_base,synthetic,noise_white_snr20,s08,0,./project\audio\synthetic\noise_white_snr20\s08.wav,Spider eye lamb population,"Spider, I, Lamb, Population.",0.25,0.11538461538461539,1,0,0,3
+whisper_base,synthetic,noise_white_snr20,s09,0,./project\audio\synthetic\noise_white_snr20\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_base,synthetic,noise_white_snr20,s10,0,./project\audio\synthetic\noise_white_snr20\s10.wav,incompetent overpromise underdeliver,"incompetent, over promise, under deliver.",1.3333333333333333,0.05555555555555555,2,2,0,1
+whisper_base,real,env1,s01,1,./project\audio\real\env1\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_base,real,env1,s02,1,./project\audio\real\env1\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_base,real,env1,s03,1,./project\audio\real\env1\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_base,real,env1,s04,1,./project\audio\real\env1\s04.wav,I am taking an introduction to philosophy gen ed,I am taking an introduction to philosophy Gen Ed.,0.0,0.0,0,0,0,9
+whisper_base,real,env1,s05,1,./project\audio\real\env1\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti-spoofing.,0.0,0.0,0,0,0,8
+whisper_base,real,env1,s06,1,./project\audio\real\env1\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_base,real,env1,s07,1,./project\audio\real\env1\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_base,real,env1,s08,0,./project\audio\real\env1\s08.wav,Spider eye lamb population,"Spider, I, Lamb, Population.",0.25,0.11538461538461539,1,0,0,3
+whisper_base,real,env1,s09,0,./project\audio\real\env1\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_base,real,env1,s10,0,./project\audio\real\env1\s10.wav,incompetent overpromise underdeliver,"incompetent, overpromise, underdeliver.",0.0,0.0,0,0,0,3
+whisper_base,real,env2,s01,1,./project\audio\real\env2\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_base,real,env2,s02,1,./project\audio\real\env2\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_base,real,env2,s03,1,./project\audio\real\env2\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_base,real,env2,s04,1,./project\audio\real\env2\s04.wav,I am taking an introduction to philosophy gen ed,I am taking an introduction to philosophy Gen Ed.,0.0,0.0,0,0,0,9
+whisper_base,real,env2,s05,1,./project\audio\real\env2\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti-spoofing.,0.0,0.0,0,0,0,8
+whisper_base,real,env2,s06,1,./project\audio\real\env2\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_base,real,env2,s07,1,./project\audio\real\env2\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_base,real,env2,s08,0,./project\audio\real\env2\s08.wav,Spider eye lamb population,spider eye lamb population.,0.0,0.0,0,0,0,4
+whisper_base,real,env2,s09,0,./project\audio\real\env2\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_base,real,env2,s10,0,./project\audio\real\env2\s10.wav,incompetent overpromise underdeliver,incompetent over promise under deliver.,1.3333333333333333,0.05555555555555555,2,2,0,1
+whisper_small,clean,clean,s01,1,./project\audio\clean\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_small,clean,clean,s02,1,./project\audio\clean\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_small,clean,clean,s03,1,./project\audio\clean\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_small,clean,clean,s04,1,./project\audio\clean\s04.wav,I am taking an introduction to philosophy gen ed,"I am taking an introduction to philosophy, Jean Ed.",0.1111111111111111,0.041666666666666664,1,0,0,8
+whisper_small,clean,clean,s05,1,./project\audio\clean\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti spoofing.,0.0,0.0,0,0,0,8
+whisper_small,clean,clean,s06,1,./project\audio\clean\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_small,clean,clean,s07,1,./project\audio\clean\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_small,clean,clean,s08,0,./project\audio\clean\s08.wav,Spider eye lamb population,"Spider, I, Lamb, Population.",0.25,0.11538461538461539,1,0,0,3
+whisper_small,clean,clean,s09,0,./project\audio\clean\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_small,clean,clean,s10,0,./project\audio\clean\s10.wav,incompetent overpromise underdeliver,Incompetent. Overpromise. Underdeliver.,0.0,0.0,0,0,0,3
+whisper_small,synthetic,noise_traffic_snr10,s01,1,./project\audio\synthetic\noise_traffic_snr10\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_traffic_snr10,s02,1,./project\audio\synthetic\noise_traffic_snr10\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_small,synthetic,noise_traffic_snr10,s03,1,./project\audio\synthetic\noise_traffic_snr10\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_traffic_snr10,s04,1,./project\audio\synthetic\noise_traffic_snr10\s04.wav,I am taking an introduction to philosophy gen ed,"I am taking an introduction to philosophy, Gen Ed.",0.0,0.0,0,0,0,9
+whisper_small,synthetic,noise_traffic_snr10,s05,1,./project\audio\synthetic\noise_traffic_snr10\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti spoofing.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_traffic_snr10,s06,1,./project\audio\synthetic\noise_traffic_snr10\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_small,synthetic,noise_traffic_snr10,s07,1,./project\audio\synthetic\noise_traffic_snr10\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_small,synthetic,noise_traffic_snr10,s08,0,./project\audio\synthetic\noise_traffic_snr10\s08.wav,Spider eye lamb population,"Spider, I, Lamb, Population.",0.25,0.11538461538461539,1,0,0,3
+whisper_small,synthetic,noise_traffic_snr10,s09,0,./project\audio\synthetic\noise_traffic_snr10\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_small,synthetic,noise_traffic_snr10,s10,0,./project\audio\synthetic\noise_traffic_snr10\s10.wav,incompetent overpromise underdeliver,Incompetent. Overpromise. Underdeliver.,0.0,0.0,0,0,0,3
+whisper_small,synthetic,noise_traffic_snr20,s01,1,./project\audio\synthetic\noise_traffic_snr20\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_traffic_snr20,s02,1,./project\audio\synthetic\noise_traffic_snr20\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_small,synthetic,noise_traffic_snr20,s03,1,./project\audio\synthetic\noise_traffic_snr20\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_traffic_snr20,s04,1,./project\audio\synthetic\noise_traffic_snr20\s04.wav,I am taking an introduction to philosophy gen ed,"I am taking an introduction to philosophy, Gen Ed.",0.0,0.0,0,0,0,9
+whisper_small,synthetic,noise_traffic_snr20,s05,1,./project\audio\synthetic\noise_traffic_snr20\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti spoofing.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_traffic_snr20,s06,1,./project\audio\synthetic\noise_traffic_snr20\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_small,synthetic,noise_traffic_snr20,s07,1,./project\audio\synthetic\noise_traffic_snr20\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_small,synthetic,noise_traffic_snr20,s08,0,./project\audio\synthetic\noise_traffic_snr20\s08.wav,Spider eye lamb population,"Spider, I, Lamb, Population.",0.25,0.11538461538461539,1,0,0,3
+whisper_small,synthetic,noise_traffic_snr20,s09,0,./project\audio\synthetic\noise_traffic_snr20\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_small,synthetic,noise_traffic_snr20,s10,0,./project\audio\synthetic\noise_traffic_snr20\s10.wav,incompetent overpromise underdeliver,Incompetent. Overpromise. Underdeliver.,0.0,0.0,0,0,0,3
+whisper_small,synthetic,noise_white_snr10,s01,1,./project\audio\synthetic\noise_white_snr10\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_white_snr10,s02,1,./project\audio\synthetic\noise_white_snr10\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_small,synthetic,noise_white_snr10,s03,1,./project\audio\synthetic\noise_white_snr10\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_white_snr10,s04,1,./project\audio\synthetic\noise_white_snr10\s04.wav,I am taking an introduction to philosophy gen ed,"I am taking an introduction to philosophy, Janet.",0.2222222222222222,0.08333333333333333,1,0,1,7
+whisper_small,synthetic,noise_white_snr10,s05,1,./project\audio\synthetic\noise_white_snr10\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti-spooping.,0.125,0.02702702702702703,1,0,0,7
+whisper_small,synthetic,noise_white_snr10,s06,1,./project\audio\synthetic\noise_white_snr10\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_small,synthetic,noise_white_snr10,s07,1,./project\audio\synthetic\noise_white_snr10\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_small,synthetic,noise_white_snr10,s08,0,./project\audio\synthetic\noise_white_snr10\s08.wav,Spider eye lamb population,"Spider, Eye, Lamb, Population.",0.0,0.0,0,0,0,4
+whisper_small,synthetic,noise_white_snr10,s09,0,./project\audio\synthetic\noise_white_snr10\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Markway.",0.2,0.1,1,0,0,4
+whisper_small,synthetic,noise_white_snr10,s10,0,./project\audio\synthetic\noise_white_snr10\s10.wav,incompetent overpromise underdeliver,Incompetent. Overpromise. Underdeliver.,0.0,0.0,0,0,0,3
+whisper_small,synthetic,noise_white_snr20,s01,1,./project\audio\synthetic\noise_white_snr20\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_white_snr20,s02,1,./project\audio\synthetic\noise_white_snr20\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_small,synthetic,noise_white_snr20,s03,1,./project\audio\synthetic\noise_white_snr20\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_white_snr20,s04,1,./project\audio\synthetic\noise_white_snr20\s04.wav,I am taking an introduction to philosophy gen ed,"I am taking an introduction to philosophy, Gen Ed.",0.0,0.0,0,0,0,9
+whisper_small,synthetic,noise_white_snr20,s05,1,./project\audio\synthetic\noise_white_snr20\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti spoofing.,0.0,0.0,0,0,0,8
+whisper_small,synthetic,noise_white_snr20,s06,1,./project\audio\synthetic\noise_white_snr20\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_small,synthetic,noise_white_snr20,s07,1,./project\audio\synthetic\noise_white_snr20\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_small,synthetic,noise_white_snr20,s08,0,./project\audio\synthetic\noise_white_snr20\s08.wav,Spider eye lamb population,"Spider, Eye, Lamb, Population.",0.0,0.0,0,0,0,4
+whisper_small,synthetic,noise_white_snr20,s09,0,./project\audio\synthetic\noise_white_snr20\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_small,synthetic,noise_white_snr20,s10,0,./project\audio\synthetic\noise_white_snr20\s10.wav,incompetent overpromise underdeliver,Incompetent. Overpromise. Underdeliver.,0.0,0.0,0,0,0,3
+whisper_small,real,env1,s01,1,./project\audio\real\env1\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_small,real,env1,s02,1,./project\audio\real\env1\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_small,real,env1,s03,1,./project\audio\real\env1\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_small,real,env1,s04,1,./project\audio\real\env1\s04.wav,I am taking an introduction to philosophy gen ed,"I am taking an introduction to philosophy, Gen Ed.",0.0,0.0,0,0,0,9
+whisper_small,real,env1,s05,1,./project\audio\real\env1\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti-spoofing.,0.0,0.0,0,0,0,8
+whisper_small,real,env1,s06,1,./project\audio\real\env1\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_small,real,env1,s07,1,./project\audio\real\env1\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_small,real,env1,s08,0,./project\audio\real\env1\s08.wav,Spider eye lamb population,Spider. Eye. Lamb. Population.,0.0,0.0,0,0,0,4
+whisper_small,real,env1,s09,0,./project\audio\real\env1\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_small,real,env1,s10,0,./project\audio\real\env1\s10.wav,incompetent overpromise underdeliver,"incompetent, overpromise, underdeliver.",0.0,0.0,0,0,0,3
+whisper_small,real,env2,s01,1,./project\audio\real\env2\s01.wav,I go to the University of Southern California,I go to the University of Southern California.,0.0,0.0,0,0,0,8
+whisper_small,real,env2,s02,1,./project\audio\real\env2\s02.wav,I am taking a speech AI course,I am taking a speech AI course.,0.0,0.0,0,0,0,7
+whisper_small,real,env2,s03,1,./project\audio\real\env2\s03.wav,I am taking a machine learning systems class,I am taking a machine learning systems class.,0.0,0.0,0,0,0,8
+whisper_small,real,env2,s04,1,./project\audio\real\env2\s04.wav,I am taking an introduction to philosophy gen ed,"I am taking an introduction to philosophy, Gen Ed.",0.0,0.0,0,0,0,9
+whisper_small,real,env2,s05,1,./project\audio\real\env2\s05.wav,I am doing a project on anti spoofing,I am doing a project on anti-spoofing.,0.0,0.0,0,0,0,8
+whisper_small,real,env2,s06,1,./project\audio\real\env2\s06.wav,Computer architecure is one of my academic interests,Computer architecture is one of my academic interests.,0.125,0.019230769230769232,1,0,0,7
+whisper_small,real,env2,s07,1,./project\audio\real\env2\s07.wav,My graduation will be in May of this year,My graduation will be in May of this year.,0.0,0.0,0,0,0,9
+whisper_small,real,env2,s08,0,./project\audio\real\env2\s08.wav,Spider eye lamb population,"spider, eye, lamb, population.",0.0,0.0,0,0,0,4
+whisper_small,real,env2,s09,0,./project\audio\real\env2\s09.wav,Connor Bryce Jude Ryan Barclay,"Connor, Bryce, Jude, Ryan, Barclay.",0.0,0.0,0,0,0,5
+whisper_small,real,env2,s10,0,./project\audio\real\env2\s10.wav,incompetent overpromise underdeliver,incompetent over promise under deliver.,1.3333333333333333,0.05555555555555555,2,2,0,1
